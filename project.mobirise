@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Zeno",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 70,
     "versionPublish": "4.6.6",
@@ -3163,7 +3163,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/1-1200x18002.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-1200x18006.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
@@ -3180,7 +3180,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/13-1200x18003.jpg",
+                "image": "@PROJECT_PATH@/assets/images/13-1200x18007.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
